@@ -1,4 +1,4 @@
-# <img src="https://github.com/zhy201810576/RandomSerialNum/raw/master/explain/RandomSerialNum_logo.png" width = "64px" height = "64px"/>RandomSerialNum
+# <img src="https://gitee.com/GrayZhaoHonyang/RandomSerialNum/raw/master/explain/RandomSerialNum_logo.png" width = "64px" height = "64px"/>RandomSerialNum
 ------
 #### 介绍
 RandomSerialNum序列号生成器(RandomSerialNum-`v1.0.0-alpha`)
@@ -36,10 +36,10 @@ RandomSerialNum序列号生成器(RandomSerialNum-`v1.0.0-alpha`)
 
 #### 使用说明
 
-   ![RandomSerialNum_1.png](https://github.com/zhy201810576/RandomSerialNum/raw/master/explain/RandomSerialNum_1.png)
-   ![RandomSerialNum_2.png](https://github.com/zhy201810576/RandomSerialNum/raw/master/explain/RandomSerialNum_2.png)
-   ![RandomSerialNum_3.gif](https://github.com/zhy201810576/RandomSerialNum/raw/master/explain/RandomSerialNum_3.gif)
-   ![RandomSerialNum_4.png](https://github.com/zhy201810576/RandomSerialNum/raw/master/explain/RandomSerialNum_4.png)
+   ![RandomSerialNum_1.png](https://gitee.com/GrayZhaoHonyang/RandomSerialNum/raw/master/explain/RandomSerialNum_1.png)
+   ![RandomSerialNum_2.png](https://gitee.com/GrayZhaoHonyang/RandomSerialNum/raw/master/explain/RandomSerialNum_2.png)
+   ![RandomSerialNum_3.gif](https://gitee.com/GrayZhaoHonyang/RandomSerialNum/raw/master/explain/RandomSerialNum_3.gif)
+   ![RandomSerialNum_4.png](https://gitee.com/GrayZhaoHonyang/RandomSerialNum/raw/master/explain/RandomSerialNum_4.png)
 
 #### 参与贡献
 
